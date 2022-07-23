@@ -48,3 +48,9 @@ button:hover {
     margin-top: 1rem;
   }
 }
+
+@media (max-width: 500px) {
+  .card-grid {
+    grid-gap: 5px;
+  }
+}
